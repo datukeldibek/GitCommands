@@ -10,3 +10,5 @@ import Foundation
 print("Hello, World!")
 
 print("original main commit")
+
+let number = 10
